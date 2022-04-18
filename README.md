@@ -5,12 +5,14 @@
 
 
 ## 🙋‍♂️ About Me
+<img alt="coding" align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 - 🔭 I’m currently working on **[](https://covid-19-tracker-e4bda.web.app/)**
 
 - 🌱 I’m currently learning **REACT** and solidating my **Data Structures and Algorithms.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
+- 🚀 Ask me About **Django**, **Python**, **Data Structures and algorithms**
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://psahine.com)**
 
